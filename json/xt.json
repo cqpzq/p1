@@ -148,6 +148,13 @@
             "ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
         },
         {
+            "key":"drpy_js_低端",
+            "name":"影视|低端[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/ddys.js"
+        },
+        {
             "key":"csp_xBPQ_快看影视",
             "name":"快看[xBPQ]",
             "type":3,
