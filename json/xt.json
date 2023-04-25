@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/top98_1.jar",
+    "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E4%BF%8A/top98_1.jar",
     "lives": [
         {
             "name": "直播",
