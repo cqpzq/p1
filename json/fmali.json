@@ -1,6 +1,6 @@
 {
-  "spider": "file://tvbox/jar/custom_spider.jar",
-  //"spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar",
+  //"spider": "file://tvbox/jar/custom_spider.jar",
+  "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar",
   //"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
