@@ -99,6 +99,16 @@
             "filterable": 1
         },
         {
+            "key":"csp_xb_cokemv",
+            "name":"cokemv[XBiu]",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key":"csp_xb_lez",
             "name":"乐猪[XBiu]",
             "type":3,
