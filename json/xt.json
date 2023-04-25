@@ -155,7 +155,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://agit.ai/cqpzq/gao/src/branch/master/xBPQ/快看影视.json"
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/快看影视.json"
         },
         {
             "key": "push_agent",
