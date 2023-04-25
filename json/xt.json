@@ -129,6 +129,35 @@
             "ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key":"csp_xb_shm",
+            "name":"神马影视[XBiu]",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+        },
+        {
+            "key":"csp_xb_fg",
+            "name":"疯狗影视[XBiu]",
+            "type":3,"api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
+        },
+        {
+            "key":"csp_xBPQ_快看影视",
+            "name":"快看[xBPQ]",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./xBPQ/快看影视.json"
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
