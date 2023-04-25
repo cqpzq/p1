@@ -177,7 +177,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/肥猫影视.json",
-            "jar":"./XYQHiker/肥猫影视.json"
+            "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
         {
             "key":"csp_xBPQ_快看影视",
