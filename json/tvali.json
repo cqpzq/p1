@@ -4,11 +4,24 @@
 
 "sites":[
 {
-  "key":"drpy_js_豆瓣",
-  "name":"搜索 | 豆瓣(JS)",
+  "key":"js豆瓣",
+  "name":"豆瓣搜索(JS)",
   "type":3,
-  "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
-  "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
+  "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+  "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0
+},
+{
+  "key":"csp_Alist1",
+  "name":"Alist",
+  "type":3,
+  "api":"csp_AList",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "ext":"http://饭太硬.ga/x/json/alist.json"
 },
 {
   "key":"csp_WoGG",
