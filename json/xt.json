@@ -100,7 +100,7 @@
         },
         {
             "key":"csp_xb_cokemv",
-            "name":"cokemv[XBiu]",
+            "name":"cokemv(XBiu)",
             "type":3,
             "api":"csp_XBiu",
             "searchable":1,
@@ -110,7 +110,7 @@
         },
         {
             "key":"csp_xb_lez",
-            "name":"乐猪[XBiu]",
+            "name":"乐猪(XBiu)",
             "type":3,
             "api":"csp_XBiu",
             "searchable":1,
@@ -120,7 +120,7 @@
         },
         {
             "key":"csp_xb_zbk",
-            "name":"真不卡[XBiu]",
+            "name":"真不卡(XBiu)",
             "type":3,
             "api":"csp_XBiu",
             "searchable":1,
@@ -130,7 +130,7 @@
         },
         {
             "key":"csp_xb_达达龟",
-            "name":"达达龟[XBiu]",
+            "name":"达达龟(XBiu)",
             "type":3,
             "api":"csp_XBiu",
             "searchable":1,
@@ -140,7 +140,7 @@
         },
         {
             "key":"csp_xb_shm",
-            "name":"神马影视[XBiu]",
+            "name":"神马影视(XBiu)",
             "type":3,
             "api":"csp_XBiu",
             "searchable":1,
@@ -150,7 +150,7 @@
         },
         {
             "key":"csp_xb_fg",
-            "name":"疯狗影视[XBiu]",
+            "name":"疯狗影视(XBiu)",
             "type":3,"api":"csp_XBiu",
             "searchable":1,
             "quickSearch":1,
@@ -159,21 +159,21 @@
         },
         {
             "key":"drpy_js_低端",
-            "name":"低端[js]",
+            "name":"低端(JS)",
             "type":3,
             "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/ddys.js"
         },
         {
             "key":"drpy_js_饭团影视",
-            "name":"饭团影视[js]",
+            "name":"饭团影视(JS)",
             "type":3,
             "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/饭团影视.js"
         },
         {
             "key":"drpy_js_鸭奈飞",
-            "name":"鸭奈飞[js]",
+            "name":"鸭奈飞(JS)",
             "type":3,
             "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/鸭奈飞.js"
@@ -191,7 +191,7 @@
         },
         {
             "key":"csp_xBPQ_快看影视",
-            "name":"快看[xBPQ]",
+            "name":"快看(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -201,7 +201,7 @@
         },
         {
             "key":"csp_xBPQ_秋霞影视",
-            "name":"秋霞[xBPQ]",
+            "name":"秋霞(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -211,7 +211,7 @@
         },
         {
             "key":"csp_XBPQ_野荷塘",
-            "name":"野荷塘[xBPQ]",
+            "name":"野荷塘(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -221,7 +221,7 @@
         },
         {
             "key":"csp_xBPQ_素白白影视",
-            "name":"素白白影视[xBPQ]",
+            "name":"素白白影视(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -231,7 +231,7 @@
         },
         {
             "key":"csp_xBPQ_555电影",
-            "name":"555[xBPQ]",
+            "name":"555(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -248,7 +248,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;desc"
+            "ext": "http://ali.饭太硬.ml/alitoken;desc"
         }
     ],
     "parses": [
