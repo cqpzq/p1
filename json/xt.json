@@ -155,6 +155,20 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/ddys.js"
         },
         {
+            "key":"drpy_js_饭团影视",
+            "name":"影视|饭团影视[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/饭团影视.js"
+        },
+        {
+            "key":"drpy_js_鸭奈飞",
+            "name":"影视|鸭奈飞[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/鸭奈飞.js"
+        },
+        {
             "key":"csp_xBPQ_快看影视",
             "name":"快看[xBPQ]",
             "type":3,
