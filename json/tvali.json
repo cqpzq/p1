@@ -14,16 +14,6 @@
   "filterable": 0
 },
 {
-  "key":"csp_Alist1",
-  "name":"Alist",
-  "type":3,
-  "api":"csp_AList",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"http://饭太硬.ga/x/json/alist.json"
-},
-{
   "key":"csp_WoGG",
   "name":"WOGG",
   "type":3,
