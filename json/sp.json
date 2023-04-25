@@ -100,6 +100,15 @@
     "filterable":1
 },
 {
+    "key":"csp_Vofl",
+    "name":"Vofl",
+    "type":3,
+    "api":"csp_Voflix",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
     "key":"csp_Nmys",
     "name":"农民",
     "type":3,
