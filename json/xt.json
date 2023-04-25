@@ -158,6 +158,26 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/快看影视.json"
         },
         {
+            "key":"csp_xBPQ_秋霞影视",
+            "name":"秋霞[xBPQ]",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/秋霞影视.json"
+        },
+        {
+            "key":"csp_XBPQ_野荷塘",
+            "name":"野荷塘[xBPQ]",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/野荷塘.json"
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
