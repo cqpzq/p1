@@ -269,6 +269,16 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/555电影.json"
         },
         {
+            "key": "口袋影院",
+            "name": "口袋影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+        },
+        {
             "key":"csp_xBPQ_FreeOK",
             "name":"FreeOK(XBPQ)",
             "type":3,
