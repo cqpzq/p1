@@ -179,6 +179,27 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/鸭奈飞.js"
         },
         {
+            "key":"drpy_js_大米星球",
+            "name":"大米星球(JS)",
+            "type":3 ,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/大米星球.js"
+        },
+        {
+            "key":"drpy_js_大师兄影视",
+            "name":"影视 | 大师兄影视(JS)",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/大师兄影视.js"
+        },
+        {
+            "key":"drpy_js_蓝光影院",
+            "name":"影视 | 蓝光影院[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/蓝光影院.js"
+        },
+        {
             "key": "csp_XYQHiker_肥猫影视",
             "name":"肥猫影视(XYQH)",
             "type":3,
@@ -259,26 +280,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/FreeOK.json"
-        },
-        {
-            "key":"csp_biubiu_大米星球",
-            "name":"大米星球(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/大米星球.json"
-        },
-        {
-            "key":"csp_biubiu_4K电影网",
-            "name":"4K电影网(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/4K电影网.json"
         },
         {
             "key": "push_agent",
