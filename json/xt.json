@@ -207,17 +207,6 @@
             "ext": "https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQBiu/大米星球.json",
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
-         {
-             "key": "csp_XYQBiu_大师兄影视",
-             "name": "大师兄影视(XYQ)",
-             "type": 3,
-             "api": "csp_XYQBiu",
-             "searchable": 1,
-             "quickSearch": 1,
-             "filterable": 1,
-             "ext": "https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQBiu/大师兄影视.json",
-             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
-        },
         {
             "key":"csp_XYQHiker_农民影视",
             "name":"农民影视(XYQH)",
