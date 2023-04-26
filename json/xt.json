@@ -179,13 +179,6 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/鸭奈飞.js"
         },
         {
-            "key":"drpy_js_大米星球",
-            "name":"大米星球(JS)",
-            "type":3 ,
-            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
-            "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/大米星球.js"
-        },
-        {
             "key":"drpy_js_蓝光影院",
             "name":"影视 | 蓝光影院[js]",
             "type":3,
@@ -202,6 +195,28 @@
             "filterable":1,
             "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/肥猫影视.json",
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
+        },
+        {
+            "key": "csp_XYQBiu_大米星球",
+            "name": "大米星球(XYQ)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQBiu/大米星球.json",
+            "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
+        },
+         {
+             "key": "csp_XYQBiu_大师兄影视",
+             "name": "大师兄影视(XYQ)",
+             "type": 3,
+             "api": "csp_XYQBiu",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 1,
+             "ext": "https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQBiu/大师兄影视.json",
+             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
         {
             "key":"csp_XYQHiker_农民影视",
