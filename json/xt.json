@@ -215,6 +215,17 @@
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
         {
+            "key": "csp_XYQHiker_奈飞中文",
+            "name":"奈飞中文(XYQH)",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/奈飞中文.json",
+            "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
+        },
+        {
             "key": "csp_XYQBiu_大米星球",
             "name": "大米星球(XYQ)",
             "type": 3,
