@@ -277,6 +277,16 @@
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
         {
+            "key": "LIBVIO",
+            "name": "LIBVIO(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/LIBVIO.json"
+        },
+        {
             "key":"csp_xBPQ_快看影视",
             "name":"快看(XBPQ)",
             "type":3,
