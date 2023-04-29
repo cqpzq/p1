@@ -170,6 +170,26 @@
             "ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
         },
         {
+            "key":"csp_xbu_段友影视",
+            "name":"段友影视(XBiu)",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key":"csp_xbu_ybkk",
+            "name":"云播(XBiu)",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.135kan.com/type/{cateId}-{catePg}/"
+        },
+        {
             "key":"drpy_js_奇珍异兽",
             "name":"爱[js]",
             "type":3,
