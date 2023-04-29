@@ -120,14 +120,14 @@
             "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/工人影视.json"
         },
         {
-            "key":"csp_xb_cokemv",
-            "name":"cokemv(XBiu)",
+            "key":"csp_xpath_nmys",
+            "name":"农民影视(XP)",
             "type":3,
-            "api":"csp_XBiu",
+            "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+            "filterable":1,
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/农民.json"
         },
         {
             "key":"csp_xb_lez",
@@ -322,17 +322,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/奈飞中文.json",
-            "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
-        },
-        {
-            "key":"csp_XYQHiker_农民影视",
-            "name":"农民影视(XYQH)",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/农民影视.json",
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
         {
