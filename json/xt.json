@@ -240,7 +240,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://9xi4o.tk/TVB/MeowXB/大米星球.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/大米星球.json"
         },
         {
             "key":"csp_biubiu_骚火电影",
@@ -250,8 +250,18 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://9xi4o.tk/TVB/MeowXB/骚火电影.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/骚火电影.json"
             
+        },
+        {
+            "key":"csp_biubiu_奈菲影院",
+            "name":"奈菲影院(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/奈菲影院.json"
         },
         {
             "key": "csp_XYQHiker_肥猫影视",
