@@ -356,16 +356,6 @@
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/奇优影院.json"
         },
         {
-            "key": "莫扎兔",
-            "name": "莫扎兔(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/莫扎兔.json"
-        },
-        {
             "key": "干饭影视",
             "name": "干饭(XBPQ)",
             "type": 3,
@@ -374,6 +364,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/干饭影视.json"
+        },
+        {
+            "key": "Vidhub",
+            "name": "Vidhub(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/Vidhub.json"
         },
         {
             "key": "push_agent",
