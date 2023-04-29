@@ -19,8 +19,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://home.jundie.top:666/token.txt",
-      //"ext": "file://tvbox/token.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
     },
     {
