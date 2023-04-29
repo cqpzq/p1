@@ -52,9 +52,21 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-       "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456",
+      "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
     },
+    {
+      "key":"csp_WoGG",
+      "name":"WOGG",
+      "type":3,
+      "api":"csp_WoGG",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"clan://localhost/tvbox/token.txt"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+    },
+
     {
       "key": "七夜",
       "name": "七夜",
