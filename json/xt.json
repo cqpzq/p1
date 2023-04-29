@@ -373,7 +373,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Vidhub.json"
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/Vidhub.json"
         },
         {
             "key": "push_agent",
