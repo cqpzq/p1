@@ -346,6 +346,36 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/FreeOK.json"
         },
         {
+            "key": "奇优影院",
+            "name": "奇优(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/奇优影院.json"
+        },
+        {
+            "key": "莫扎兔",
+            "name": "莫扎兔(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/莫扎兔.json"
+        },
+        {
+            "key": "干饭影视",
+            "name": "干饭(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/干饭影视.json"
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
