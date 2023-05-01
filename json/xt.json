@@ -285,6 +285,13 @@
             "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/酷云77.js"
         },
         {
+            "key":"drpy_js_布雷蓝光",
+            "name":"布雷蓝光(JS)",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/布雷蓝光.js"
+        },
+        {
             "key":"drpy_js_鸭奈飞",
             "name":"鸭奈飞(JS)",
             "type":3,
