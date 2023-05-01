@@ -21,7 +21,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 },
 {
   "key":"csp_Paper",
@@ -32,7 +32,7 @@
   "quickSearch":1,
   "filterable":1,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 },
 {
   "key":"七夜",
@@ -42,7 +42,7 @@
   "searchable":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 },
 {
   "key":"Zhaozy",
@@ -53,7 +53,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt$$$zheng@sina.com$$$123456"
+  "ext":"clan://tvbox/token.txt$$$zheng@sina.com$$$123456"
 },
 {
   "key":"YiSo",
@@ -64,7 +64,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txtt"
 },
 {
   "key":"PanSou",
@@ -75,7 +75,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 },
 {
   "key":"UpYun",
@@ -86,7 +86,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 },
 {
   "key":"push_agent",
@@ -96,7 +96,7 @@
   "searchable":0,
   "quickSearch":0,
   "filterable":0,
-  "ext":"clan://localhost/tvbox/token.txt"
+  "ext":"clan://tvbox/token.txt"
 }
 
 ],
