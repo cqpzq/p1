@@ -271,6 +271,13 @@
             "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/饭团影视.js"
         },
         {
+            "key":"drpy_js_大师兄影视",
+            "name":"大师兄影视(JS)",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/大师兄影视.js"
+        },
+        {
             "key":"drpy_js_酷云七七",
             "name":"酷云七七(JS)",
             "type":3,
