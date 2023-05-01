@@ -306,6 +306,13 @@
             "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/蓝光影院.js"
         },
         {
+            "key":"drpy_js_石榴影院",
+            "name":"石榴影院(JS)",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/石榴影院.js"
+        },
+        {
             "key":"csp_biubiu_大米星球",
             "name":"大米星球(XB)",
             "type":3,
