@@ -110,6 +110,16 @@
             "jar": "http://45.125.46.61/xpg.jar"
         },
         {
+            "key": "py_kunyu77",
+            "name": "酷云七七(PY)",
+            "type": 3,
+            "api": "py_kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_kunyu77.py"
+        },
+        {
             "key":"csp_xb_zbk",
             "name":"真不卡(XBiu)",
             "type":3,
