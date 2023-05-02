@@ -1,7 +1,7 @@
 {
-  //"spider": "file://tvbox/jar/custom_spider.jar",
-  "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar;md5;9eb909e7a180e28b617c5fd15bda5b22",
-  //"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+
+  "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar;md5;a50f5026c571ca789721f21e88056bcf",
+
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -12,7 +12,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      //"ext": "https://kebedd69.github.io/TVbox-interface/py/py_douban.py"
       "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
     },
    
