@@ -120,6 +120,16 @@
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_kunyu77.py"
         },
         {
+            "key": "py_libvio",
+            "name": "libvio",
+            "type": 3,
+            "api": "py_libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_libvio.py"
+        },
+        {
             "key":"csp_xb_zbk",
             "name":"真不卡(XBiu)",
             "type":3,
