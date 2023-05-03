@@ -171,17 +171,6 @@
            "filterable": 0,
            "ext": "https://jihulab.com/qlilp/1452635819-h/-/raw/master/Py/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.py"
         },
-                {
-           "key": "py_cokemv",
-           "name": "cokemv(PY)",
-           "type": 3,
-           "api": "py_cokemv",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "https://jihulab.com/qlilp/1452635819-h/-/raw/master/Py/cokemv.py"
-        },
-
         {
             "key":"csp_xb_zbk",
             "name":"真不卡(XBiu)",
