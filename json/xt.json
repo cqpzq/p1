@@ -161,14 +161,14 @@
 		    "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_xigua.py"
         },
         {
-            "key": "py_voflix",
-            "name": "voflix(PY)",
+            "key": "py_genmov",
+            "name": "py_genmov(PY)",
             "type": 3,
-            "api": "py_voflix",
+            "api": "py_genmov",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/cqpzq/dr_py/raw/branch/main/txt/py/py_voflix.py"
+            "ext": "https://agit.ai/cqpzq/dr_py/raw/branch/main/txt/py/py_genmov.py"
         },
 
         {
