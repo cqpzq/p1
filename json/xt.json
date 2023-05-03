@@ -149,7 +149,7 @@
 		    "filterable": 0,
 		    "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_cyys.py"
         },
-                {
+        {
             "key": "py_xigua",
 		    "name": "西瓜视频(PY)",
 		    "type": 3,
@@ -157,7 +157,7 @@
 		    "searchable": 1,
 		    "quickSearch": 1,
 		    "filterable": 0,
-		    "ext": "https://jihulab.com/xiaohutx/box/-/raw/main/py/xigua.py"
+		    "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_xigua.py"
         },
         {
             "key":"csp_xb_zbk",
