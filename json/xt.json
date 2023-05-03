@@ -129,16 +129,6 @@
             "filterable": 1,
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_libvio.py"
         },
-                {
-            "key": "py_voflix",
-            "name": "voflix(PY)",
-            "type": 3,
-            "api": "py_voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/cqpzq/dr_py/raw/branch/main/txt/py/py_voflix.py"
-        },
         {
 		    "key": "py_ikan",
 		    "name": "爱看(PY)",
