@@ -76,6 +76,16 @@
       "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
