@@ -56,6 +56,16 @@
       "ext": "file://tvbox/token.txt"
     },
     {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "file://tvbox/token.txt"
+    },
+    {
       "key": "UP雲搜",
       "name": "UP雲搜",
       "type": 3,
