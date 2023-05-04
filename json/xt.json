@@ -171,14 +171,14 @@
            "ext": "https://jihulab.com/qlilp/1452635819-h/-/raw/master/Py/胖虎影视.py"
         },
          {
-           "key": "py_麦豆TV",
-           "name": "麦豆TV(PY)",
+           "key": "py_NO视频",
+           "name": "NO视频(PY)",
            "type": 3,
-           "api": "py_麦豆TV",
+           "api": "py_NO视频",
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 0,
-           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/mdtv.py"
+           "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/novipnoad.py"
         },
         {
             "key":"csp_xb_zbk",
