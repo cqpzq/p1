@@ -128,6 +128,13 @@
     "ext":"http://饭太硬.ga/x/json/nmys.json"
 },
 {
+    "key":"csp_AppMr",
+    "name":"明明",
+    "type":3,
+    "api":"csp_AppMr",
+    "searchable":1,"quickSearch":1,"filterable":1
+},
+{
     "key":"csp_Lib",
     "name": "Libvio",
     "type": 3,
@@ -195,13 +202,7 @@
     "filterable":0,
     "ext":"http://ali.饭太硬.ml/alitoken"
 }
-{
-    "key":"csp_AppMr",
-    "name":"明明","
-    type":3,
-    "api":"csp_AppMr",
-    "searchable":1,"quickSearch":1,"filterable":1
-},
+
 
 ],
 
