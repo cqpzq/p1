@@ -78,6 +78,16 @@
   "ext":"clan://tvbox/token.txt"
 },
 {
+  "key":"PanSearch",
+  "name":"盘搜索",
+  "type":3,
+  "api":"csp_PanSearch",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"clan://tvbox/token.txt"
+},
+{
   "key":"UpYun",
   "name":"Up搜",
   "type":3,
