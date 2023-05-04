@@ -1,17 +1,13 @@
 {
   "sites": [
+   {
+  "key":"drpy_js_豆瓣",
+  "name":"搜索 | 豆瓣(JS)",
+  "type":3,
+  "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+  "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
+   },
 
-    {
-      "key": "紙條",
-      "name": "紙條",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
-    },
     {
       "key": "易搜",
       "name": "易搜",
@@ -22,6 +18,15 @@
       "changeable": 0,
       "ext": "clan://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "盤搜",
