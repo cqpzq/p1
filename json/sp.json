@@ -13,15 +13,6 @@
     "filterable": 0
 },
 {
-    "key":"csp_AppTT",
-    "name":"图图",
-    "type":3,
-    "api":"csp_AppTT",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,           "ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-},
-{
     "key":"csp_BuLei",
     "name":"布雷",
     "type":3,
@@ -204,7 +195,13 @@
     "filterable":0,
     "ext":"http://ali.饭太硬.ml/alitoken"
 }
-
+{
+    "key":"csp_AppMr",
+    "name":"明明","
+    type":3,
+    "api":"csp_AppMr",
+    "searchable":1,"quickSearch":1,"filterable":1
+},
 
 ],
 
