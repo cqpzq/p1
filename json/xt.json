@@ -168,7 +168,7 @@
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 0,
-           "ext": "https://jihulab.com/qlilp/1452635819-h/-/raw/master/Py/胖虎影视.py"
+           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.py"
         },
          {
            "key": "py_NO视频",
@@ -176,8 +176,8 @@
            "type": 3,
            "api": "py_NO视频",
            "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
+           "quickSearch": 0,
+           "filterable": 1,
            "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/novipnoad.py"
         },
         {
