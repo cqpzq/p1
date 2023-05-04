@@ -181,16 +181,6 @@
            "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/cctv_ys.py"
         },
         {
-           "key": "py_在线之家",
-           "name": "在线之家(PY)",
-           "type": 3,
-           "api": "py_在线之家",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/zxzj.py"
-        },
-        {
             "key":"csp_xb_zbk",
             "name":"真不卡(XBiu)",
             "type":3,
