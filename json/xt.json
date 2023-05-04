@@ -181,10 +181,10 @@
            "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/cctv_ys.py"
         },
         {
-           "key": "py_czys.",
-           "name": "厂长(PY)",
+           "key": "py_gitcafe.",
+           "name": "gitcafe(PY)",
            "type": 3,
-           "api": "py_czys.",
+           "api": "py_gitcafe.",
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
