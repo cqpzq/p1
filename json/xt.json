@@ -181,14 +181,14 @@
            "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/cctv_ys.py"
         },
         {
-           "key": "py_cctv",
-           "name": "CCTV电影(PY)",
+           "key": "py_czys.",
+           "name": "厂长(PY)",
            "type": 3,
-           "api": "py_cctv",
+           "api": "py_czys.",
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
-           "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv6.py"
+           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/czys.py"
         },
         {
             "key":"csp_xb_zbk",
