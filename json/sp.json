@@ -13,6 +13,18 @@
     "filterable": 0
 },
 {
+
+    "key": "csp_BuLei",
+    "name": "布雷影视",
+    "type": 3,
+    "api": "csp_BuLei",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111",
+    "m3u8ads": "wan.51img1.com"
+},
+{
     "key":"csp_apple",
     "name":"小苹果",
     "type":3,
