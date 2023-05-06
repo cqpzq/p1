@@ -25,6 +25,16 @@
     "m3u8ads": "wan.51img1.com"
 },
 {
+    "key":"sp-AppTT",
+    "name":"图图影视",
+    "type":3,
+    "api":"csp_TutuYs",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://download.kstore.space/download/4127/FXZ.txt;md5;e9cd011b798d103bbdbdca9966983ecb",    "ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"
+},
+{
     "key":"csp_apple",
     "name":"小苹果",
     "type":3,
