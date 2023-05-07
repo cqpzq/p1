@@ -14,16 +14,14 @@
       "filterable": 1,
       "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
     },
-   
     {
-      "key": "紙條",
-      "name": "紙條",
+      "key": "本地",
+      "name": "本地",
       "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "api": "csp_Local",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "七夜",
