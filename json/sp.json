@@ -13,19 +13,9 @@
     "filterable": 0
 },
 {
-    "key":"csp_BuLei",
-    "name":"布雷",
-    "type":3,
-    "api":"csp_BuLei",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
-},
-{
 
     "key": "csp_BuLei",
-    "name": "布雷影视",
+    "name": "布雷",
     "type": 3,
     "api": "csp_BuLei",
     "searchable": 1,
@@ -36,7 +26,7 @@
 },
 {
     "key":"sp-AppTT",
-    "name":"图图影视",
+    "name":"图图",
     "type":3,
     "api":"csp_TutuYs",
     "searchable":1,
