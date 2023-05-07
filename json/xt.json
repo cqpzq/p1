@@ -332,6 +332,13 @@
             "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/乐猪TV.js"
         },
         {
+            "key":"drpy_js_厂长资源",
+            "name":"厂长(JS)",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/厂长资源.js"
+        },
+        {
             "key":"drpy_js_饭团影视",
             "name":"饭团影视(JS)",
             "type":3,
@@ -893,9 +900,6 @@
                 ]
             }
         },
-
-{"name":"33","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=abcnqtxzABGHJNOZ19&url=
-"},
 
 {"name":"44","type":1,"url": "http://api.playaaaa.com/qq/00167kkkk.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
