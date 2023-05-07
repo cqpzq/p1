@@ -623,7 +623,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken;desc"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json;desc"
         }
     ],
     "parses": [
