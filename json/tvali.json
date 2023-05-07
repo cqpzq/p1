@@ -21,7 +21,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
 },
 {
   "key":"csp_Paper",
@@ -32,7 +32,7 @@
   "quickSearch":1,
   "filterable":1,
   "changeable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.jsont"
 },
 {
   "key":"七夜",
@@ -42,7 +42,7 @@
   "searchable":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
 },
 {
   "key":"Zhaozy",
@@ -53,7 +53,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://tvbox/token.txt$$$zheng@sina.com$$$123456"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.jsont$$$zheng@sina.com$$$123456"
 },
 {
   "key":"YiSo",
@@ -64,7 +64,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://tvbox/token.txtt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
 },
 {
   "key":"PanSou",
@@ -75,7 +75,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
 },
 {
   "key":"PanSearch",
@@ -85,7 +85,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.jsont"
 },
 {
   "key":"UpYun",
@@ -96,7 +96,7 @@
   "quickSearch":1,
   "filterable":0,
   "changeable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
 },
 {
   "key":"push_agent",
@@ -106,7 +106,7 @@
   "searchable":0,
   "quickSearch":0,
   "filterable":0,
-  "ext":"clan://tvbox/token.txt"
+  "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.jsont"
 }
 
 ],
