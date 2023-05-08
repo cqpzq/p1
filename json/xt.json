@@ -367,16 +367,6 @@
             "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/LIBVIO.json"
         },
         {
-            "key":"csp_biubiu_口袋影院",
-            "name":"口袋影院(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/口袋影院.json"
-        },
-        {
             "key":"csp_biubiu_花猫TV",
             "name":"花猫TV(XB)",
             "type":3,
@@ -535,16 +525,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/咕噜咕噜.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "口袋影院(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/口袋影院.json"
         },
         {
             "key":"csp_xBPQ_FreeOK",
