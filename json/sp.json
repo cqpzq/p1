@@ -231,6 +231,12 @@
 {"name": "Json聚合", "type": 3, "url": "Demo"},
 
 {"name":"聚合1","type":3,"url":"Demo"},
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+
 
 
 {"name":"推荐","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
