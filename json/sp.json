@@ -13,43 +13,23 @@
     "filterable": 0
 },
 {
-    "key":"drpy_js_奇珍异兽",
-    "name":"爱[js]官",
+    "key":"csp_77",
+    "name":"七七[SP]",
     "type":3,
-    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
-    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/奇珍异兽.js"
+    "api":"csp_Kunyu77",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
 },
 {
-    "key":"drpy_js_优酷",
-    "name":"酷[js]官",
+    "key":"csp_Nmys",
+    "name":"农民[SP]",
     "type":3,
-    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
-    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/优酷.js"
-},
-{
-    "key":"drpy_js_腾云驾雾",
-    "name":"腾[js]官",
-    "type":3,
-    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
-    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/腾云驾雾.js"
-},
-{
-    "key":"drpy_js_百忙无果",
-    "name":"芒[js]官",
-    "type":3,
-    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
-    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/百忙无果.js"
-},
-{
-
-    "key": "csp_BuLei",
-    "name": "布雷[SP]",
-    "type": 3,
-    "api": "csp_BuLei",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
+    "api":"csp_Nmys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://饭太硬.ga/x/json/nmys.json"
 },
 {
       "key":"csp_Jianying",
@@ -90,15 +70,7 @@
     "filterable":1,
     "ext":"https://www.fantuanhd.com"
 },
-{
-    "key":"csp_77",
-    "name":"七七[SP]",
-    "type":3,
-    "api":"csp_Kunyu77",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-},
+
 {
     "key":"csp_Czsapp",
     "name":"厂长[SP]",
@@ -156,16 +128,7 @@
     "quickSearch": 1,
     "filterable": 1
 },
-{
-    "key":"csp_Nmys",
-    "name":"农民[SP]",
-    "type":3,
-    "api":"csp_Nmys",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://饭太硬.ga/x/json/nmys.json"
-},
+
 {
     "key":"csp_AppMr",
     "name":"明明[SP]",
@@ -210,6 +173,45 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.ysgc.vip"
+},
+{
+
+    "key": "csp_BuLei",
+    "name": "布雷[SP]",
+    "type": 3,
+    "api": "csp_BuLei",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
+},
+{
+    "key":"drpy_js_奇珍异兽",
+    "name":"爱[js]官",
+    "type":3,
+    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/奇珍异兽.js"
+},
+{
+    "key":"drpy_js_优酷",
+    "name":"酷[js]官",
+    "type":3,
+    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/优酷.js"
+},
+{
+    "key":"drpy_js_腾云驾雾",
+    "name":"腾[js]官",
+    "type":3,
+    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/腾云驾雾.js"
+},
+{
+    "key":"drpy_js_百忙无果",
+    "name":"芒[js]官",
+    "type":3,
+    "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+    "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/百忙无果.js"
 },
 {
     "key":"push_agent",
