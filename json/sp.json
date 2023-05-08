@@ -12,17 +12,6 @@
     "quickSearch": 0,
     "filterable": 0
 },
-
-{
-      "key":"csp_Jianying",
-      "name":"简影[SP]",
-      "type":3,
-      "api":"csp_Jianying",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"hjju123@qq.com$$$123456"
-},
 {
     "key":"csp_apple",
     "name":"小苹果[SP]",
