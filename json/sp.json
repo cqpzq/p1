@@ -112,6 +112,16 @@
     "ext":"https://www.555dyy1.com"
 },
 {
+      "key":"csp_Jianying",
+      "name":"🎆简影",
+      "type":3,
+      "api":"csp_Jianying",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"hjju123@qq.com$$$123456"
+    },
+{
     "key":"csp_Xinsj",
     "name":"新视觉[SP]",
     "type":3,
