@@ -23,7 +23,7 @@
 ],
 
 "caijizhan": [
-{"name":"酷云","url":"http://api.kunyu77.com/api.php"},
+{"name":"77采集","url":"http://api.kunyu77.com/api.php"},
 {"name":"老子采集","url":"http://cj.lziapi.com/api.php"},
 {"name": "快播资源","url": "http://www.kuaibozy.com/api.php"},
 {"name":"晓辉资源","url":"https://www.xhzy01.com/api.php"},
@@ -88,7 +88,7 @@
 "guolvdizhi": ".gif#.css#.html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 "zidingyi": [
-{"name": "鲲娱",
+{"name": "酷云77",
 "url": "",
 "ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
 "User": "空",
