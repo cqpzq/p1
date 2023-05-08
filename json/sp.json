@@ -74,7 +74,7 @@
 },
 {
     "key":"csp_Cokemv",
-    "name":"可乐[SP]",
+    "name":"Cokemv[SP]",
     "type":3,
     "api":"csp_Cokemv",
     "playerType":2,
@@ -142,7 +142,7 @@
 },
 {
     "key":"csp_Auete",
-    "name":"奥特[SP]",
+    "name":"Auete[SP]",
     "type": 3,
     "api":"csp_Auete",
     "searchable":1,
@@ -160,7 +160,7 @@
 },
 {
     "key":"csp_77",
-    "name":"七七[SP]",
+    "name":"酷云七七[SP]",
     "type":3,
     "api":"csp_Kunyu77",
     "searchable":1,
@@ -214,7 +214,7 @@
 },
 {
     "key":"csp_Ysgc",
-    "name":"工厂[SP]",
+    "name":"影视工厂[SP]",
     "type":3,
     "api":"csp_Ysgc",
     "searchable":1,
@@ -225,7 +225,7 @@
 {
 
     "key": "csp_BuLei",
-    "name": "布雷[SP]",
+    "name": "布雷蓝光[SP]",
     "type": 3,
     "api": "csp_BuLei",
     "searchable": 1,
