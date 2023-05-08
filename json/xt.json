@@ -638,7 +638,24 @@
 				"喜剧片"
 			]
 		},
-
+        {
+            "key":"梦忆影",
+            "name":"梦忆影视(采集)",
+            "type":1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1,"filterable":1
+         },
+         {
+             "key":"明帝",
+             "name":"明帝影视(采集)",
+             "type":1,
+             "api": "https://ys.md214.cn/api.php/provide/vod/",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1
+             ,"categories":["连续剧","电影","直播","综艺","动漫"]
+        },
         {
             "key": "push_agent",
             "name": "推送",
