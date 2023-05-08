@@ -505,6 +505,17 @@
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/LIBVIO.json"
         },
         {
+            "key": "两个BT",
+            "name": "两个BT ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/cqpzq/tvbox3/raw/branch/main/dr/XBPQ/两个BT.json"
+	
+        },
+        {
             "key":"csp_xBPQ_快看影视",
             "name":"快看(XBPQ)",
             "type":3,
