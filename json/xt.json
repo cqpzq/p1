@@ -439,6 +439,33 @@
             "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/奈飞中文.json",
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
+                {
+            "key": "csp_xBPQ_两个BT",
+            "name": "两个BT(XBPQ) ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/cqpzq/tvbox3/raw/branch/main/dr/XBPQ/两个BT.json"
+	
+        },
+        {
+			"key": "csp_xBPQ_在线之家",
+			"name": "在线之家(XBPQ)",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"stui-vodlist__box&&</li>",
+				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
+				"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+				"分类url": "https://www.zxzj.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+		    }
+        },
+
         {
             "key": "LIBVIO",
             "name": "LIBVIO(XBPQ)",
