@@ -12,25 +12,7 @@
     "quickSearch": 0,
     "filterable": 0
 },
-{
-    "key":"csp_77",
-    "name":"七七[SP]",
-    "type":3,
-    "api":"csp_Kunyu77",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-},
-{
-    "key":"csp_Nmys",
-    "name":"农民[SP]",
-    "type":3,
-    "api":"csp_Nmys",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://饭太硬.ga/x/json/nmys.json"
-},
+
 {
       "key":"csp_Jianying",
       "name":"简影[SP]",
@@ -136,6 +118,25 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+},
+{
+    "key":"csp_77",
+    "name":"七七[SP]",
+    "type":3,
+    "api":"csp_Kunyu77",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_Nmys",
+    "name":"农民[SP]",
+    "type":3,
+    "api":"csp_Nmys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://饭太硬.ga/x/json/nmys.json"
 },
 {
     "key":"csp_AppMr",
