@@ -122,17 +122,6 @@
     "ext":"hjju123@qq.com$$$123456"
 },
 {
-    "key": "csp_Lgyy",
-    "name": "蓝光┃SP",
-    "type": 3,
-    "api": "csp_Lgyy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.lgyy.vip"
-},
-
-{
     "key":"csp_Xinsj",
     "name":"新视觉[SP]",
     "type":3,
