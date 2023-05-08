@@ -550,7 +550,7 @@
         },
         {
             "key":"zy_8",
-            "name":"🐰图图|釆集",
+            "name":"图图(釆集)",
             "type":1,
             "api":"https://ys.md214.cn/api.php/provide/vod/",
             "m3u8ads": "hd.youyhn.com",
@@ -561,7 +561,7 @@
         },
         {
             "key": "干饭",
-            "name": "️干饭采集",
+            "name": "️干饭(采集)",
             "type": 1,
             "api": "http://124.220.183.81:83/api.php/provide/vod/",
             "playUrl": "https://jx.bozrc.com:4433/player/?url=",
