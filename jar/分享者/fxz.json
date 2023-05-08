@@ -1,0 +1,67 @@
+{
+  "sites": [
+   {
+  "key":"drpy_js_豆瓣",
+  "name":"搜索 | 豆瓣(JS)",
+  "type":3,
+  "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+  "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
+   },
+
+ {
+            "key": "csp_Gitcafe",
+            "name": "纸条搜索",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; 2db2981befb99cdfbcfd96ae1aa655ce"
+        },
+        {
+            "key": "csp_Zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; 2db2981befb99cdfbcfd96ae1aa655ce"
+        },
+        {
+            "key": "csp_AliPS",
+            "name": "盘搜",
+            "type": 3,
+            "api": "csp_AliPS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; 2db2981befb99cdfbcfd96ae1aa655ce"
+        },
+        {
+            "key": "csp_Yisou",
+            "name": "易搜",
+            "type": 3,
+            "api": "csp_Yisou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; 2db2981befb99cdfbcfd96ae1aa655ce"
+        },
+        {
+            "key": "csp_Upyunso",
+            "name": "云搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; 2db2981befb99cdfbcfd96ae1aa655ce"
+        },
+  ]
+}
