@@ -549,6 +549,17 @@
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XBPQ/Vidhub.json"
         },
         {
+            "key":"zy_8",
+            "name":"🐰图图|釆集",
+            "type":1,
+            "api":"https://ys.md214.cn/api.php/provide/vod/",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
+        },
+        {
             "key": "干饭",
             "name": "️干饭采集",
             "type": 1,
