@@ -184,6 +184,16 @@
     "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
 },
 {
+    "key":"csp_MeiJu69",
+    "name":"69美剧[SP]",
+    "api":"csp_AppYsV2",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1,
+    "ext":"https://www.69mj.com/xgapp.php/v2/"
+},
+{
     "key":"push_agent",
     "name":"推送[阿里]",
     "type":3,
