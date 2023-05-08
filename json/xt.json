@@ -640,7 +640,7 @@
 		},
         {
             "key":"梦忆影",
-            "name":"梦忆影视(采集)",
+            "name":"梦忆采集",
             "type":1,
             "api": "http://anltv.cn/api.php/provide/vod/",
             "searchable":1,
@@ -648,7 +648,7 @@
          },
          {
              "key":"明帝",
-             "name":"明帝影视(采集)",
+             "name":"明帝采集",
              "type":1,
              "api": "https://ys.md214.cn/api.php/provide/vod/",
              "searchable":1,
