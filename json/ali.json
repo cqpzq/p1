@@ -1,12 +1,12 @@
 {
   "sites": [
-   {
-  "key":"drpy_js_豆瓣",
-  "name":"搜索 | 豆瓣(JS)",
-  "type":3,
-  "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
-  "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
-   },
+    {
+      "key":"drpy_js_豆瓣",
+      "name":"搜索 | 豆瓣(JS)",
+      "type":3,
+      "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
+      "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
+    },
 
     {
       "key": "易搜",
