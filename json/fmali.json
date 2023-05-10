@@ -5,23 +5,14 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
-      "key": "py_douban.py",
-      "name": "搜索 | 豆瓣(PY)",
-      "type": 3,
-      "api": "py_douban.py",
+      "key":"js豆瓣",
+      "name":"豆瓣搜索[js]",
+      "type":3,
+      "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+      "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
-    },
-    {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
+      "filterable": 0
     },
     {
       "key": "七夜",
@@ -31,7 +22,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txt"
     },
     {
       "key": "易搜",
@@ -41,7 +32,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txt"
     },
     {
       "key": "盤搜",
@@ -51,7 +42,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txt"
     },
     {
       "key": "盤搜索",
@@ -61,7 +52,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txt"
     },
     {
       "key": "UP雲搜",
@@ -71,7 +62,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      //"ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txt"
     },
     {
       "key": "找資源",
@@ -81,17 +73,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
-    },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+      "ext": "clan://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
       "key": "push_agent",
@@ -101,7 +83,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "file://tvbox/token.txt"
+      "ext": "clan://tvbox/token.txtt"
     }
   ]
 }
