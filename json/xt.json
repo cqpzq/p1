@@ -111,6 +111,16 @@
             "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A5%AD%E5%A4%AA%E7%A1%AC/file.jar"
         },
         {
+            "key": "py_douban.py",
+            "name": "搜索 | 豆瓣(PY)",
+            "type": 3,
+            "api": "py_douban.py",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
+        },
+        {
             "key": "py_kunyu77",
             "name": "酷云七七(PY)",
             "type": 3,
