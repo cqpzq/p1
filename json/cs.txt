@@ -17,7 +17,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-        "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+        "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/Xiang.txt"
     },
     {
         "key": "csp_Zhaozy",
@@ -28,18 +28,18 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-        "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+        "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/Xiang.txt"
     },
     {
         "key": "csp_AliPS",
-        "name": "💽盘搜",
+        "name": "盘搜",
         "type": 3,
         "api": "csp_AliPS",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-        "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+        "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/Xiang.txt"
     },
     {
         "key": "csp_Yisou",
@@ -50,7 +50,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-        "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+        "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/Xiang.txt"
     },
     {
         "key": "csp_Upyunso",
@@ -61,7 +61,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-        "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+        "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/Xiang.txt"
     },
     {
       "key": "push_agent",
