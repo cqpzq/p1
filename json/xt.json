@@ -171,6 +171,27 @@
 		    "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_xigua.py"
         },
         {
+           "key": "py_胖虎影视",
+           "name": "胖虎影视(PY)",
+           "type": 3,
+           "api": "py_胖虎影视",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 0,
+           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.py"
+        },
+        {
+           "key": "py_cctv",
+           "name": "CCTV(PY)",
+           "type": 3,
+           "api": "py_cctv",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/cctv_ys.py"
+        },
+
+        {
             "key":"csp_xb_zbk",
             "name":"真不卡(XBiu)",
             "type":3,
