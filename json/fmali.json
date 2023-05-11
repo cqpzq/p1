@@ -76,6 +76,27 @@
       "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
+      "key":"csp_xpath_网络搜集库112",
+      "name":"工人影视(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/工人影视.json"
+    },
+    {
+      "key":"csp_xpath_nmys",
+      "name":"农民影视(XP)",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/农民.json"
+    },
+
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
