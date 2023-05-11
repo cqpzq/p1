@@ -22,7 +22,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt"
+      "ext": "file://tvbox/token.txt"
     },
     {
       "key": "易搜",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt"
+      "ext": "file://tvbox/token.txt"
     },
     {
       "key": "盤搜",
@@ -42,7 +42,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt"
+      "ext": "file://tvbox/token.txt"
     },
     {
       "key": "盤搜索",
@@ -52,7 +52,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt"
+      "ext": "file://tvbox/token.txt"
     },
     {
       "key": "UP雲搜",
@@ -62,8 +62,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      //"ext": "file://tvbox/token.txt"
-      "ext": "clan://tvbox/token.txt"
+      "ext": "file://tvbox/token.txt"
+      
     },
     {
       "key": "找資源",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt$$$zheng@sina.com$$$123456"
+      "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
       "key": "push_agent",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txtt"
+      "ext": "file://tvbox/token.txt"
     }
   ]
 }
