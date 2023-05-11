@@ -16,8 +16,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "盤搜索",
@@ -26,7 +26,9 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "盤搜",
@@ -36,8 +38,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "UP雲搜",
@@ -47,8 +49,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "找資源",
@@ -58,8 +60,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt$$$zheng@sina.com$$$123456",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt$$$zheng@sina.com$$$123456",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "七夜",
@@ -69,8 +71,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "push_agent",
@@ -80,8 +82,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://tvbox/token.txt",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%BD%B1%E8%A7%86/custom_spider.jar"
+      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     }
   ]
 }
