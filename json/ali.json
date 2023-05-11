@@ -16,7 +16,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -27,7 +27,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -38,7 +38,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -49,7 +49,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -60,7 +60,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt$$$zheng@sina.com$$$123456",
+      "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -71,7 +71,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
@@ -82,7 +82,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
+      "ext": "file://tvbox/token.txt",
       "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     }
   ]
