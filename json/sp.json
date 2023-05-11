@@ -258,6 +258,27 @@
     "ext": "http://饭太硬.ga/x/json/biliych.json"
 },
 {
+    "key":"csp_XBPQ_野荷塘",
+    "name":"野荷塘(XBPQ)",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/野荷塘.json"
+},
+{
+    "key":"csp_xBPQ_素白白影视",
+    "name":"素白白影视(XBPQ)",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/xBPQ/素白白影视.json"
+},
+
+{
     "key":"push_agent",
     "name":"推送[阿里]",
     "type":3,
