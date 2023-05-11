@@ -86,6 +86,17 @@
       "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_libvio.py"
     },
     {
+      "key": "py_kunyu77",
+      "name": "酷云七七(PY)",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_kunyu77.py"
+    },
+
+    {
       "key":"csp_xpath_网络搜集库112",
       "name":"工人",
       "type":3,
