@@ -300,6 +300,16 @@
             "filterable": 1,
             "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/XP/AGE动漫.json"
         },
+         {
+             "key":"csp_xpath_lezhutv",
+             "name":"乐猪TV(XPMac)",
+             "type":3,
+             "api":"csp_XPathMac",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":0,
+             "ext":"https://agit.ai/xx03253/xxu/raw/branch/main/MaooXP/lezhutv.json"
+        },
         {
             "key":"drpy_js_奇珍异兽",
             "name":"爱[js]",
