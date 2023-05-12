@@ -6,7 +6,7 @@
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"豆瓣搜索[js]",
+      "name":"豆瓣搜索",
       "type":3,
       "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
       "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
@@ -77,7 +77,7 @@
     },
     {
       "key": "py_libvio",
-      "name": "libvio(PY)",
+      "name": "libvio",
       "type": 3,
       "api": "py_libvio",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "py_胖虎影视",
-      "name": "胖虎影视(PY)",
+      "name": "胖虎影视",
       "type": 3,
       "api": "py_胖虎影视",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "CCTV(PY)",
+      "name": "CCTV",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -108,7 +108,7 @@
 
     {
       "key": "py_kunyu77",
-      "name": "酷云七七(PY)",
+      "name": "酷云七七",
       "type": 3,
       "api": "py_kunyu77",
       "searchable": 1,
@@ -119,7 +119,7 @@
 
     {
       "key":"csp_xpath_grys",
-      "name":"工人(XP)",
+      "name":"工人",
       "type":3,
       "api":"csp_XPathMacFilter",
       "searchable":1,
@@ -130,7 +130,7 @@
 
     {
       "key":"csp_xpath_nmys",
-      "name":"农民(XP)",
+      "name":"农民",
       "type":3,
       "api":"csp_XPathFilter",
       "searchable":1,
@@ -140,7 +140,7 @@
     },
     {
       "key":"csp_xpath_lezhutv",
-      "name":"乐猪TV(XPMac)",
+      "name":"乐猪TV",
       "type":3,
       "api":"csp_XPathMac",
       "searchable":1,
