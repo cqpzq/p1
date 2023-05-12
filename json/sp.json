@@ -16,16 +16,6 @@
     "filterable": 0
 },
 {
-	"key": "新片热播",  
-	"name": "热播新剧", 
-	"type": 1, 
-	"api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   
-	"searchable": 1,  
-	"quickSearch": 1,
-	"playerType":2 ,
-	"categories": ["连续剧","电影","动漫"]
-},
-{
     "key":"csp_apple",
     "name":"小苹果[SP]",
     "type":3,
@@ -267,6 +257,17 @@
     "changeable": 0,
     "ext": "http://饭太硬.ga/x/json/biliych.json"
 },
+{
+    "key":"明帝",
+    "name":"明帝采集",
+    "type":1,
+    "api": "https://ys.md214.cn/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["连续剧","电影","直播","综艺","动漫"]
+},
+
 {
     "key":"zy_8",
     "name":"图图釆集",
