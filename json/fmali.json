@@ -119,13 +119,24 @@
 
     {
       "key":"csp_xpath_grys",
-      "name":"工人",
+      "name":"工人(XP)",
       "type":3,
       "api":"csp_XPathMacFilter",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/工人影视.json"
+    },
+
+    {
+      "key":"csp_xpath_nmys",
+      "name":"农民(XP)",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/农民.json"
     },
     {
       "key":"csp_xpath_lezhutv",
@@ -137,43 +148,6 @@
       "filterable":0,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
   },
-
-    {
-      "key":"csp_xpath_nmys",
-      "name":"农民",
-      "type":3,
-      "api":"csp_XPathFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/农民.json"
-    },
-    {
-			"key": "量子资源",
-			"name": "量子资源",
-			"type": 1,
-			"api": "http://cj.lziapi.com/api.php/provide/vod/",
-			"playerType": 2,
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"国产动漫",
-				"泰国剧",
-				"台湾剧",
-				"香港剧",
-				"欧美剧",
-				"韩国剧",
-				"日本剧",
-				"动漫",
-				"体育",
-				"剧情片",
-				"动作片",
-				"爱情片",
-				"喜剧片"
-			]
-	},
   {
         "key":"zy_8",
         "name":"图图釆集",
