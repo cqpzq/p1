@@ -16,6 +16,16 @@
     "filterable": 0
 },
 {
+	"key": "新片热播",  
+	"name": "热播新剧", 
+	"type": 1, 
+	"api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   
+	"searchable": 1,  
+	"quickSearch": 1,
+	"playerType":2 ,
+	"categories": ["连续剧","电影","动漫"]
+},
+{
     "key":"csp_apple",
     "name":"小苹果[SP]",
     "type":3,
