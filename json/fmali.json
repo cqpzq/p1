@@ -118,7 +118,7 @@
     },
 
     {
-      "key":"csp_xpath_网络搜集库112",
+      "key":"csp_xpath_grys",
       "name":"工人",
       "type":3,
       "api":"csp_XPathMacFilter",
@@ -127,6 +127,17 @@
       "filterable":1,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/工人影视.json"
     },
+    {
+      "key":"csp_xpath_lezhutv",
+      "name":"乐猪TV(XPMac)",
+      "type":3,
+      "api":"csp_XPathMac",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
+  },
+
     {
       "key":"csp_xpath_nmys",
       "name":"农民",
