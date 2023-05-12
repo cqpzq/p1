@@ -258,6 +258,17 @@
     "ext": "http://饭太硬.ga/x/json/biliych.json"
 },
 {
+    "key":"zy_8",
+    "name":"图图釆集",
+    "type":1,
+    "api":"https://ys.md214.cn/api.php/provide/vod/",
+    "m3u8ads": "hd.youyhn.com",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
+},
+{
     "key":"push_agent",
     "name":"推送[阿里]",
     "type":3,
