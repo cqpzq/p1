@@ -38,6 +38,17 @@
     "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%B7%A7%E6%8A%80/fix.jar"
 },
 {
+    "key":"Tutu_spider",
+    "name":"图图[SP]",
+    "api":"csp_TutuYs",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1,
+    "ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW",
+    "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%B7%A7%E6%8A%80/fix.jar"
+},
+{
     "key":"csp_kuaikan",
     "name":"快看[SP]",
     "type":3,
