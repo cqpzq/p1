@@ -80,6 +80,15 @@
     "ext":"https://tv.libvio.cc/"
 },
 {
+    "key": "csp_Bttoo",
+    "name": "2BT[SP]",
+    "type": 3,
+    "api": "csp_Bttwoo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
     "key":"csp_kuaikan",
     "name":"快看[SP]",
     "type":3,
