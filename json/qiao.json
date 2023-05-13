@@ -1,5 +1,5 @@
 {
-"spider":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%B7%A7%E6%8A%80/fix.jar;md5;6847077f896f53976496662c3836f349",
+"spider":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%B7%A7%E6%8A%80/fix0511.jar;md5;6847077f896f53976496662c3836f349",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 "sites":
@@ -14,15 +14,56 @@
     "quickSearch": 0,
     "filterable": 0
 },
+{
+    "key":"Yisou","name":"易搜",
+    "type":3,
+    "api":"csp_Yisou",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.qiaoji8.com/jar1/token.txt"
+},
+{
+    "key":"Gitcafe","name":"小纸条",
+    "type":3,
+    "api":"csp_GitCafe",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.qiaoji8.com/jar1/token.txt"
+},
+{
+    "key":"AliPanSou",
+    "name":"盘搜",
+    "type":3,
+    "api":"csp_AliPanSou",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.qiaoji8.com/jar1/token.txt"
+},
+{
+    "key":"UPanSo",
+    "name":"优盘搜",
+    "type":3,
+    "api":"csp_UPanSo",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.qiaoji8.com/jar1/token.txt"
+},
+{
+    "key":"FindZY",
+    "name":"找资源",
+    "type":3,
+    "api":"csp_FindZY",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.qiaoji8.com/jar1/token.txt$$$zheng@sina.com$$$123456"
+},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
-
-{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"AliPanSou","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"Music_spider","name":"音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""}],
 
 
 
