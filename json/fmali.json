@@ -16,7 +16,7 @@
     },
     {
       "key": "七夜",
-      "name": "七夜",
+      "name": "七夜(云)",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜",
+      "name": "易搜(云)",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "盤搜",
-      "name": "盤搜",
+      "name": "盤搜(云)",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "盤搜索",
+      "name": "盤搜索(云)",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "UP雲搜",
-      "name": "UP雲搜",
+      "name": "UP雲搜(云)",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -67,7 +67,7 @@
     },
     {
       "key": "找資源",
-      "name": "找資源",
+      "name": "找資源(云)",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -77,7 +77,7 @@
     },
     {
       "key": "py_libvio",
-      "name": "libvio",
+      "name": "libvio(PY)",
       "type": 3,
       "api": "py_libvio",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "py_胖虎影视",
-      "name": "胖虎影视",
+      "name": "胖虎(PY)",
       "type": 3,
       "api": "py_胖虎影视",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "CCTV",
+      "name": "CCTV(PY)",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -108,7 +108,7 @@
 
     {
       "key": "py_kunyu77",
-      "name": "酷云七七",
+      "name": "七七(PY)",
       "type": 3,
       "api": "py_kunyu77",
       "searchable": 1,
@@ -119,7 +119,7 @@
 
     {
       "key":"csp_xpath_grys",
-      "name":"工人",
+      "name":"工人(XP)",
       "type":3,
       "api":"csp_XPathMacFilter",
       "searchable":1,
@@ -130,7 +130,7 @@
 
     {
       "key":"csp_xpath_nmys",
-      "name":"农民",
+      "name":"农民(XP)",
       "type":3,
       "api":"csp_XPathFilter",
       "searchable":1,
@@ -140,7 +140,7 @@
     },
     {
       "key":"csp_xpath_lezhutv",
-      "name":"乐猪TV",
+      "name":"乐猪(XP)",
       "type":3,
       "api":"csp_XPathMac",
       "searchable":1,
@@ -150,7 +150,7 @@
   },
   {
         "key":"zy_8",
-        "name":"图图釆集",
+        "name":"图图(釆集)",
         "type":1,
         "api":"https://ys.md214.cn/api.php/provide/vod/",
         "m3u8ads": "hd.youyhn.com",
