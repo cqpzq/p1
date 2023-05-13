@@ -84,7 +84,36 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
-  },
+    },
+    {
+      "key":"drpy_js_奇珍异兽",
+      "name":"爱[js]",
+      "type":3,
+      "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/奇珍异兽.js"
+    },
+        {
+            "key":"drpy_js_优酷",
+            "name":"酷[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/优酷.js"
+        },
+        {
+            "key":"drpy_js_腾云驾雾",
+            "name":"腾[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/腾云驾雾.js"
+        },
+        {
+            "key":"drpy_js_百忙无果",
+            "name":"芒[js]",
+            "type":3,
+            "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "ext":"https://agit.ai/cqpzq/dr_py/raw/branch/main/js/百忙无果.js"
+        },
+
     {
       "key": "push_agent",
       "name": "推送",
