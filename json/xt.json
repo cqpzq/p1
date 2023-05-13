@@ -111,15 +111,6 @@
             "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
         },
         {
-            "key": "360",
-            "name": "360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "小苹果",
             "name": "小苹果(SP)",
             "type": 3,
