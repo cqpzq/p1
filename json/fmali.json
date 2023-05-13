@@ -16,7 +16,7 @@
     },
     {
       "key": "七夜",
-      "name": "七夜(云)",
+      "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜(云)",
+      "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "盤搜",
-      "name": "盤搜(云)",
+      "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "盤搜索(云)",
+      "name": "盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "UP雲搜",
-      "name": "UP雲搜(云)",
+      "name": "UP雲搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -67,7 +67,7 @@
     },
     {
       "key": "找資源",
-      "name": "找資源(云)",
+      "name": "找資源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -76,88 +76,14 @@
       "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
-      "key": "py_libvio",
-      "name": "libvio(PY)",
-      "type": 3,
-      "api": "py_libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_libvio.py"
-    },
-    {
-      "key": "py_胖虎影视",
-      "name": "胖虎(PY)",
-      "type": 3,
-      "api": "py_胖虎影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "CCTV(PY)",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/cqpzq/h/raw/branch/master/Py/cctv_ys.py"
-    },
-
-    {
-      "key": "py_kunyu77",
-      "name": "七七(PY)",
-      "type": 3,
-      "api": "py_kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_kunyu77.py"
-    },
-
-    {
-      "key":"csp_xpath_grys",
-      "name":"工人(XP)",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/工人影视.json"
-    },
-
-    {
-      "key":"csp_xpath_nmys",
-      "name":"农民(XP)",
-      "type":3,
-      "api":"csp_XPathFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XP/农民.json"
-    },
-    {
       "key":"csp_xpath_lezhutv",
-      "name":"乐猪(XP)",
+      "name":"乐猪",
       "type":3,
       "api":"csp_XPathMac",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
-  },
-  {
-        "key":"zy_8",
-        "name":"图图(釆集)",
-        "type":1,
-        "api":"https://ys.md214.cn/api.php/provide/vod/",
-        "m3u8ads": "hd.youyhn.com",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
   },
     {
       "key": "push_agent",
