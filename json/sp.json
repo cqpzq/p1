@@ -72,6 +72,18 @@
     "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/20230513173145.jar"  
 },
 {
+    "key": "csp_BuLei",
+    "name": "💣布雷影视",
+    "type": 3,
+    "api": "csp_BuLei",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111",
+    "m3u8ads": "wan.51img1.com",
+    "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E5%88%86%E4%BA%AB%E8%80%85/20230513173145.jar"  
+},
+{
     "key":"csp_Auete",
     "name":"Auete[SP]",
     "type": 3,
