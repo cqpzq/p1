@@ -5,15 +5,16 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
-      "key":"js豆瓣",
-      "name":"豆瓣搜索",
-      "type":3,
-      "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-      "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
+      "key": "py_douban.py",
+      "name": "搜索 | 豆瓣(PY)",
+      "type": 3,
+      "api": "py_douban.py",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
     },
+
     {
       "key": "七夜",
       "name": "七夜",
@@ -85,6 +86,14 @@
       "filterable":0,
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
     },
+    {
+      "key":"drpy_js_低端",
+      "name":"低端(JS)",
+      "type":3,
+      "api":"https://agit.ai/cqpzq/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/ddys.js"
+    },
+
     {
       "key": "py_libvio",
       "name": "libvio(PY)",
