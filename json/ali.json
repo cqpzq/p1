@@ -17,7 +17,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "盤搜索",
@@ -28,7 +28,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "盤搜",
@@ -39,7 +39,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "UP雲搜",
@@ -50,7 +50,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "找資源",
@@ -61,7 +61,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json$$$zheng@sina.com$$$123456",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "七夜",
@@ -72,7 +72,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     },
     {
       "key": "push_agent",
@@ -83,7 +83,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar"
     }
   ]
 }
