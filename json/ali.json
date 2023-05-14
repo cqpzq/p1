@@ -16,7 +16,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "盤搜索",
@@ -26,7 +27,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "盤搜",
@@ -36,7 +38,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "UP雲搜",
@@ -46,7 +49,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "找資源",
@@ -56,8 +60,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "自行扫码$$$zheng@sina.com$$$123456",
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json$$$zheng@sina.com$$$123456",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "七夜",
@@ -67,7 +71,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     },
     {
       "key": "push_agent",
@@ -77,7 +82,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/影视/custom_spider.jar"
+      "ext":"https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+      "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/fm.jar"
     }
   ]
 }
