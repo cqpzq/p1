@@ -333,7 +333,7 @@
     "quickSearch": 0,
     "filterable": 0,
     "changeable": 0,
-    "ext": "http://饭太硬.ga/x/json/alist.json"
+    "ext": "https://agit.ai/cqpzq/CatVodSpider/raw/branch/main/json/alist.json"
 },
 {
     "key":"push_agent",
