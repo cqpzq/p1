@@ -101,7 +101,7 @@
 "guolvdizhi": ".gif#.css#.html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 "zidingyi": [
-{"name": "酷云77",
+{"name": "七七影视",
 "url": "",
 "ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
 "User": "空",
