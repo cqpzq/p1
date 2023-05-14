@@ -451,16 +451,6 @@
             "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/宝仙HD.json"
         },
         {
-            "key":"csp_biubiu_小苹果",
-            "name":"小苹果(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://agit.ai/cqpzq/c1/raw/branch/master/xb/小苹果.json"
-        },
-        {
             "key": "csp_XYQHiker_肥猫影视",
             "name":"肥猫影视(XYQH)",
             "type":3,
@@ -482,7 +472,7 @@
             "ext":"https://agit.ai/cqpzq/TVRule/raw/branch/main/XYQHiker/奈飞中文.json",
             "jar":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider.jar"
         },
-                {
+        {
             "key": "csp_xBPQ_两个BT",
             "name": "两个BT(XBPQ) ",
             "type": 3,
