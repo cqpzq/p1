@@ -1,5 +1,5 @@
 {
-  "spider":"https://download.kstore.space/download/4127/0.txt;md5; 0aff12ecc5386c9b4c5f0a22c80f468d"
+
   "sites": [
     {
       "key":"drpy_js_豆瓣",
