@@ -86,6 +86,17 @@
       "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XB/%E4%B9%90%E7%8C%AA.json"
     },
     {
+      "key": "py_libvio",
+      "name": "libvio(PY)",
+      "type": 3,
+      "api": "py_libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/PY/py_libvio.py"
+    },
+
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
