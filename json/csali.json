@@ -63,54 +63,6 @@
             "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
             "jar": "https://download.kstore.space/download/4127/Xiang.txt"
         },
-        {
-            "key": "csp_XYQHiker_土狗搜索",
-            "name":"土狗搜索",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E5%9C%9F%E7%8B%97%E6%90%9C%E7%B4%A2.json",
-            "jar":"https://download.kstore.space/download/4127/Xiang.txt"
-        },
-
-        {
-            "key": "csp_XYQHiker_DOVX搜索",
-            "name":"DOVX搜索",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/DOVX%E6%90%9C%E7%B4%A2.json",
-            "jar":"https://download.kstore.space/download/4127/Xiang.txt"
-        },
-        {
-            "key": "csp_XYQBiu_云盘分享",
-            "name":"云盘分享",
-            "type":3,
-            "api":"csp_XYQBiu",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json",
-            "jar":"https://download.kstore.space/download/4127/Xiang.txt"
-        },
-        {
-            "key": "csp_XYQHiker_盘搜索",
-            "name":"盘搜索",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E7%9B%98%E6%90%9C%E7%B4%A2.json",
-            "jar":"https://download.kstore.space/download/4127/Xiang.txt"
-        },
 
 
 
