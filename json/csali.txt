@@ -70,17 +70,8 @@
             "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
         },
 
-{"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"3317b053986748d9896f629eeaf498ae","jar":""},
-
-{"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":1,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt$$$ygfxz$$$66666","jar":""},
-{"key":"Upyunso","name":"云搜(仅搜索)","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":1,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt","jar":""},
-{"key":"Alips","name":"盘搜索(仅搜索)","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":1,"ext":" ","jar":""},
-
-{"key":"PanSearch","name":"盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt","jar":""},
 
 
-{"key":"push_agent","name":"😺推送(海阔)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"}
 
-
-  ]
+]
 }
