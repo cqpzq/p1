@@ -1,0 +1,93 @@
+{
+
+  "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar",
+
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "py_douban.py",
+      "name": "搜索 | 豆瓣(PY)",
+      "type": 3,
+      "api": "py_douban.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
+    },
+
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    },
+    {
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json$$$zheng@sina.com$$$123456"
+    },
+
+
+
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    }
+  ]
+}
