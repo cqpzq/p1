@@ -8,7 +8,7 @@
       "api":"https://agit.ai/cqpzq/gao/raw/branch/master/lib/drpy2.min.js",
       "ext":"https://agit.ai/cqpzq/gao/raw/branch/master/js/drpy.js"
     },
-{
+        {
             "key": "csp_Gitcafe",
             "name": "纸条搜索",
             "type": 3,
@@ -17,7 +17,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "3317b053986748d9896f629eeaf498ae",
-            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5"
         },
         {
             "key": "csp_Zhaozy",
@@ -28,7 +28,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5"
         },
         {
             "key": "csp_AliPS",
@@ -39,7 +39,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt"
         },
         {
             "key": "csp_Yisou",
@@ -50,7 +50,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt"
         },
         {
             "key": "csp_Upyunso",
@@ -61,11 +61,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/809662687/dsb/raw/branch/master/TVBox/jar/alitoken.txt",
-            "jar": "https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"
+            "jar": "https://download.kstore.space/download/4127/Xiang.txt"
         }
-
-
-
-
 ]
 }
