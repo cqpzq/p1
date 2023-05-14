@@ -325,6 +325,17 @@
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
 },
 {
+    "key": "csp_Alist1",
+    "name": "Alist┃网盘",
+    "type": 3,
+    "api": "csp_AList",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": "http://饭太硬.ga/x/json/alist.json"
+},
+{
     "key":"push_agent",
     "name":"推送[阿里]",
     "type":3,
