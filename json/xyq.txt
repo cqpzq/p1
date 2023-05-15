@@ -27,6 +27,18 @@
         }
     ],
     "sites": [
+
+        {
+            "key":"js豆瓣",
+            "name":"豆瓣搜索[js]",
+            "type":3,
+            "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+
         {
             "key":"Gitcafe",
             "name":"📀小纸条",
