@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./custom_spider.jar",
+    "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A6%99%E9%9B%85%E6%83%85/custom_spider%E5%8E%9F%E7%94%BB%E5%9C%A8%E5%89%8D_V2.jar?inline=false",
     "lives": [
         {
           "name": "直播",
