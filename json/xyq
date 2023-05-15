@@ -89,7 +89,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./XYQHiker/土狗搜索.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E5%9C%9F%E7%8B%97%E6%90%9C%E7%B4%A2.json"
         },
         {
             "key": "csp_XYQHiker_DOVX搜索",
@@ -100,7 +100,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./XYQHiker/DOVX搜索.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/DOVX%E6%90%9C%E7%B4%A2.json"
         },
         {
             "key": "csp_XYQBiu_云盘分享",
@@ -110,7 +110,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./XYQBiu/云盘分享.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json"
         },
         {
             "key": "csp_XYQHiker_盘搜索",
@@ -121,7 +121,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./XYQHiker/盘搜索.json"
+            "ext":"https://jihulab.com/cqpzq/p1/-/raw/main/XYQ/%E7%9B%98%E6%90%9C%E7%B4%A2.json"
         },
         {
             "key":"push_agent",
