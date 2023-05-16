@@ -3,6 +3,20 @@
   "spider": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/fm/PG.jar",
 
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "lives": [
+
+        {
+            "name": "油管",
+            "type": 0,
+            "url": "https://jihulab.com/cqpzq/p1/-/raw/main/biubiu/YouTube.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+             "boot": false
+  
+        }
+
+    ],
+
   "sites": [
     {
       "key": "py_douban.py",
