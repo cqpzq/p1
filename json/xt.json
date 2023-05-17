@@ -110,17 +110,16 @@
             "filterable": 1,
             "ext": "https://agit.ai/cqpzq/c1/raw/branch/master/py/py_douban.py"
         },
-        {
-            "key": "小苹果",
-            "name": "小苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "jar": "https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A5%AD%E5%A4%AA%E7%A1%AC/file.jar"
-        },
+		{
+			"key": "小苹果",
+			"name": "小苹果(SP)",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+		},
 
         {
             "key": "py_kunyu77",
