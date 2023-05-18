@@ -1,5 +1,5 @@
 {
-"spider":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A5%AD%E5%A4%AA%E7%A1%AC/file.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
+"spider":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/%E9%A5%AD%E5%A4%AA%E7%A1%AC/file.jar;md5;e8fe5d2c9d119879e383a85df8ffd027",
 //"spider":"https://jihulab.com/cqpzq/p1/-/raw/main/jar/0/cc.jar;md5;c8a8f8cc8fdd30eb58f1bc5ee21dccb3",
 
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -147,6 +147,16 @@
     "filterable":1
 },
 {
+    "key":"csp_黄黄",
+    "name":"黄黄[SP]",
+    "api":"csp_AppYsV2",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1,
+    "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+},
+{
     "key":"csp_zxzj",
     "name":"在线之家[SP]",
     "type":3,
@@ -193,7 +203,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://www.6080dy3.com"
+    "ext":"https://www.6080dy4.com"
 },
 {
     "key":"csp_Vofl",
@@ -239,16 +249,6 @@
     "type":3,
     "api":"csp_AppMr",
     "searchable":1,"quickSearch":1,"filterable":1
-},
-
-{
-    "key":"csp_panghu",
-    "name":"胖虎[SP]",
-    "type":3,
-    "api":"csp_Panghu",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
 },
 {
     "key":"csp_Bd",
