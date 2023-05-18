@@ -77,6 +77,14 @@
       "ext": "file://tvbox/token.txt$$$zheng@sina.com$$$123456"
     },
     {
+      "key": "土狗",
+      "name": "土狗",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key":"csp_xpath_lezhutv",
       "name":"乐猪(XP)",
       "type":3,
