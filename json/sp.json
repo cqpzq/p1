@@ -351,15 +351,14 @@
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
 },
 {
-    "key": "csp_Alist1",
-    "name": "Alist网盘",
-    "type": 3,
-    "api": "csp_AList",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0,
-    "changeable": 0,
-    "ext": "https://jihulab.com/cqpzq/p1/-/raw/main/json/alist.json"
+    "key":"高中教育",
+    "name":"高中课堂",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://饭太硬.ga/x/json/高中课堂.json"
 },
 {
     "key":"push_agent",
