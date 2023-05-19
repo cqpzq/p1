@@ -24,7 +24,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     },
     {
       "key": "易搜",
@@ -34,7 +34,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     },
     {
       "key": "盤搜",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     },
     {
       "key": "盤搜索",
@@ -54,7 +54,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     },
     {
       "key": "csp_WoGG",
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     },
     {
       "key": "UP雲搜",
@@ -74,7 +74,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
       
     },
     {
@@ -85,7 +85,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json$$$zheng@sina.com$$$123456"
+      "ext": "file://tvbox/alitoken.txt$$$zheng@sina.com$$$123456"
     },
 
 
@@ -98,7 +98,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+      "ext": "file://tvbox/alitoken.txt"
     }
   ]
 }
